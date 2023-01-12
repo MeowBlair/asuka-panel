@@ -1,2 +1,2 @@
-# unicorn-utility
-Powerful windows optimization batch script 
+# Unicorn Utility
+Powerful Batch for Optimization Windows 10/11 
