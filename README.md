@@ -1,2 +1,2 @@
-# Asuka Panel - Your Open-Source Windows Optimizer
-Powerful Batch for Optimization Windows 10/11 
+# Asuka Panel - Manage your system
+Powerful Batch for Optimization Windows 10/11
