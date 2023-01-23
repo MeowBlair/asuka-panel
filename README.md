@@ -7,6 +7,7 @@ Thanks to the ever-growing community, you can always get support in case of prob
 ### Disclaimer
 
 ### Debloat Features
+##### The Debloat tab allows you to remove pre-installed Windows applications
 ```
 Alarms and Clock
 Paint 3D
