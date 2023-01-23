@@ -49,7 +49,8 @@ Your Phone
 
 ## Personalization Features 💻
 
-## Other Features 📊
+## Game Configs 🎮
+###In future...
 
 ## License 📒
 
