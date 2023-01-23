@@ -1,14 +1,16 @@
 # Asuka Panel
 
-## [🔨] Current Asuka Panel Status : In development
+# [🔨] Current Asuka Panel Status : In development
 
-### Introduction
+## Introduction
 Asuka Panel is a powerful open-source batch script allowing you to customize Windows the way you want. Thanks to tweaks you can get FPS boost, lower latency, reduce lags and stutterers.
 Thanks to the ever-growing community, you can always get support in case of problems with our software.
 
-### Disclaimer
+Download - https://github.com/xcelknow/asuka-panel/releases
 
-### Debloat Features
+## Disclaimer
+
+## Debloat Features
 ##### The Debloat tab allows you to remove pre-installed Windows applications. A full list can be found below.
 ```
 Alarms and Clock
@@ -43,12 +45,12 @@ Xbox Apps
 Your Phone
 ```
 
-### Optimization Features
+## Optimization Features
 
-### Personalization Features 
+## Personalization Features 
 
-### Other Features
+## Other Features
 
-### License
+## License
 
-### Support
+## Support
