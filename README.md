@@ -7,6 +7,7 @@ Thanks to the ever-growing community, you can always get support in case of prob
 ### Disclaimer
 
 ### Debloat Features
+```
 Alarms and Clock
 Paint 3D
 Groove Music
@@ -37,7 +38,7 @@ OneDrive
 Mail and Calendar
 Calculator
 Camera
-
+```
 
 ### Optimization Features
 
