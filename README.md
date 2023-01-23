@@ -1,12 +1,12 @@
 # Asuka Panel
 
-# [🔨] Current Asuka Panel Status : In development
-
-## Introduction
+## 🔨 Introduction
 Asuka Panel is a powerful open-source batch script allowing you to customize Windows the way you want. Thanks to tweaks you can get FPS boost, lower latency, reduce lags and stutterers.
 Thanks to the ever-growing community, you can always get support in case of problems with our software.
 
 Download - https://github.com/xcelknow/asuka-panel/releases
+
+Discord Community - ...
 
 ## Disclaimer
 
@@ -53,4 +53,3 @@ Your Phone
 
 ## License
 
-## Support
