@@ -16,7 +16,8 @@ The script automatically creates a backup of the registry, services and a restor
 Alarms and Clock
 Calculator
 Camera
-Edge
+Cortana
+3D Viewer
 Feedback Hub
 Get Help
 Groove Music
