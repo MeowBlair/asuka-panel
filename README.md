@@ -50,7 +50,7 @@ Your Phone
 ## Personalization Features 💻
 
 ## Game Configs 🎮
-### In future...
+In future...
 
 ## License 📒
 
