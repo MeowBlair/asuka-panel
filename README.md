@@ -1,3 +1,3 @@
-# Asuka Panel - Manage your system
+# Asuka Panel
 
-## Introduction
+### Introduction
