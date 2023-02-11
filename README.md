@@ -1,4 +1,10 @@
-<h1 align="center">Introduction 💻</h1>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/StaticKardi/asuka-panel"><img src="https://i.imgur.com/zLkODrG.jpeg" alt="Asuka" width="1000"></a>
+</h1>
+<h4 align="center">Asuka Panel is a powerful open-source batch script allowing you to customize Windows the way you want.</h4>
+
+## Introduction 💻
 Asuka Panel is a powerful open-source batch script allowing you to customize Windows the way you want. Thanks to tweaks you can get FPS boost, lower latency, reduce lags and stutterers.
 Thanks to the ever-growing community, you can always get support in case of problems with our software.
 
