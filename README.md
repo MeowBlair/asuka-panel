@@ -8,11 +8,10 @@
 Asuka Panel is a powerful open-source batch script allowing you to customize Windows the way you want. Thanks to tweaks you can get FPS boost, lower latency, reduce lags and stutterers.
 Thanks to the ever-growing community, you can always get support in case of problems with our software.
 
-Download - https://github.com/xcelknow/asuka-panel/releases
-
 Discord Community - ...
 
 ## Download 💿
+Download - https://github.com/StaticKardi/asuka-panel/releases or via cmd :
 ```
 powershell Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-WebRequest "" -OutFile "$env:temp\AsukaPanel.bat"
 ```
